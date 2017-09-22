@@ -1,4 +1,4 @@
-function writeAlgoDemo() {
+function writeAlgoDemo1() {
     var side_a = Math.random() * 10 + 5;
     var side_b = Math.random() * 10 + 5;
     document.write("Side a=" + side_a + "Side b=" + side_b);
@@ -9,4 +9,8 @@ function writeAlgoDemo() {
     document.writeln();
     document.write("Площадь прямоугольника" + side_a * side_b);
     document.writeln();
+}
+
+function writeAlgoDemo2() {
+
 }
